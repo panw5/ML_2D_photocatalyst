@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6b4ef41e-6515-4189-9489-747ba602d33f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/ML_2D_Photocatalyst.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_read_db.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_export_db2csv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_filter_2Dcandidates.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_violin_scatter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_filter_gap_edge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_band_alignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_pearson.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_pca.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_pca_compare_hform.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_pairplot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_RF.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_ANN.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_catboost.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="35S2w3F8qsSDnR5DQj1de5eKY3V" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/wangxiaowu/PycharmProjects/ML_2D_Photocatalyst&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-890ed5b35930-d9c5bdb153f4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.23774.444" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b4ef41e-6515-4189-9489-747ba602d33f" name="Changes" comment="" />
+      <created>1763089386834</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1763089386834</updated>
+    </task>
+    <servers />
+  </component>
+</project>
